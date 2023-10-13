@@ -1,0 +1,336 @@
+.top-btn .grey-btn{
+    background-color: white;
+    outline:none;
+    border:1px solid #ebebeb;
+    color:#212529;
+    text-align: center;
+    border-radius: 5px;
+    padding:12px 16px;
+    font-size:14px;
+    margin-left: 5px;
+    margin-right:5px;
+}
+.top-btn .blue-btn{
+    background-color: #0a5dff;
+    outline:none;
+    border:none;
+    color:white;
+    text-align: center;
+    border-radius: 5px;
+    padding:12px 16px;
+    font-size:14px;
+    margin-left: 5px;
+    margin-right:5px;
+}
+
+.black-paragraph{
+    font-size:13px;
+    text-align: left;
+    font-size:300;
+    letter-spacing: -0.5px;;
+}
+
+.h-500-x{
+    height:400px;
+}
+.fs-22-x{
+    font-size:22px;
+}
+.fs-13-x{
+    font-size:13px;
+}
+.fs-18-x{
+    font-size:18px;
+}
+.ml-10-x{
+    margin-left: 10px;
+}
+.mt-15-x{
+    margin-top:15px;
+}
+.ml-15-x{
+    margin-left: 15px;
+}
+.mr-30-x{
+    margin-right: 30px;
+}
+.mt-30-x{
+    margin-top:30px;
+}
+.mr-10-x{
+    margin-right: 10px;;
+}
+.mr-4-px{
+    margin-right:4px;
+}
+.mt-20-x{
+    margin-top:20px;
+}
+.mt-25-x{
+    margin-top:25px;
+}
+.mb-7-x{
+    margin-bottom: 7px;
+}
+.mb-13-x{
+    margin-bottom: 13px;
+}
+.res-mr-30-x{
+    margin-right:50px;
+}
+.border-bottom-black{
+    border-bottom:2px solid black;
+}
+
+
+.justify-space-between{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.justify-center-align{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.justify-content-baseline{
+    display:flex;
+    align-items: baseline;
+}
+.flex-align-start{
+    display:flex;
+    align-items: flex-start;
+}
+.flex-end{
+    display: flex;
+    align-items: flex-end;
+}
+
+
+
+#do_legend li span{
+    font-size: 16px;
+}
+#do_legend > ul{
+    display:flex;
+    margin-top: 20px;
+}
+#do_legend li{
+    display:flex;
+    align-items: center;
+}
+.last-week-price{
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 39px;
+    letter-spacing: -2px;
+    color: #000000;
+}
+.last-week{
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: -0.5px;
+    color: #000000;
+    margin-bottom:5px;
+}
+.inline-block{
+    display:inline-block;
+}
+.currency-box{
+    background-color: #f7f7f7;
+    border-radius: 50%;
+    height:50px;
+    width:50px;
+}
+.currency-box .dollar-img{
+    width:15px;
+    height:15px;
+}
+.currency-box .company-img{
+    width:22px;
+    height:22px;
+}
+.account-money{
+    font-size:36px;
+    width:50%;
+}
+.account-info{
+    color:#b2b2b2;
+    font-family: "Inter", sans-serif;
+    letter-spacing: -0.5px;
+    font-size: 14px;
+    margin-top:2px;
+    font-weight: 300;
+}
+.company-category{
+    margin-top:10px;
+    font-size:14px;
+    text-align: left;
+}
+.company-category-s{
+    margin-top:10px;
+    font-size:12px;
+    text-align: right;
+    width: 100%;
+}
+.see-all-transaction{
+    font-size:16px;
+    font-family: "Inter", sans-serif;
+    letter-spacing: -0.3px;
+    font-weight: 400;
+}
+.company-price{
+    font-size:16px;
+    width:100%;
+    text-align: right;
+}
+.width-100{
+    width: 100% !important;
+}
+.width-80{
+    width: 80% !important;
+}
+.height-50{
+    height:50%;
+}
+.bg-green{
+    background: #20c933;
+}
+.color-white{
+    color:white !important;
+}
+.no-height{
+    height:auto !important;
+    overflow: auto;
+}
+.text-adjustment{
+    font-family: "Inter";
+font-style: normal;
+font-weight: 600;
+line-height: 27px;
+letter-spacing: -0.277738px;
+}
+.text-style-1{
+font-family: "Inter";
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 34px;
+letter-spacing: -2px;
+color: #000000;
+}
+.bg-purple{
+    background: #624CE0;
+    border: 1.11095px solid #EBEBEB;
+box-sizing: border-box;
+border-radius: 14px;
+}
+.bg-black{
+    background: #000;
+border: 1.11095px solid #EBEBEB;
+box-sizing: border-box;
+border-radius: 14px;
+}
+.cards-page-text{
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: -2px;
+    color: #FFFFFF;
+}
+.grey-color{
+    color:#B2B2B2 !important;
+}
+.spent-text{
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 13px;
+    text-align: right;
+    letter-spacing: -0.5px;
+}
+.cvc{
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+    letter-spacing: -0.5px;
+    color: #FFFFFF;
+}
+.dot-box{
+    background: rgba(255, 255, 255, 0.1);
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 3px;
+padding:6px 10px;
+display:flex;
+}
+.card-owner{
+    font-family: "Inter";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: right;
+letter-spacing: -0.5px;
+
+color: #FFFFFF;
+}
+
+.light-grey{
+    color: rgba(0, 0, 0, 0.5);
+}
+.refferal__table .permissions_admin{
+    background-color: #ddeafa;
+    color:#48538d;
+}
+.refferal__table .permissions_moderator{
+    background-color: #fbdde0;
+    color:#985250;
+}
+.refferal__table .permissions_void{
+    background-color: #f4f8fb;
+    color:#96979b;
+}
+.refferal__table .permissions_paid{
+    background-color: #ddfbdd;
+    color:#5b9b5f;
+}
+@media(max-width:500px){
+    .top-btn{
+        width:100%;
+        display:flex;
+        flex-direction: column;
+    }
+    .top-btn .grey-btn{
+        margin:5px 0px;
+    }
+    .top-btn .blue-btn{
+        margin:5px 0px;
+    }
+    .no-height-responsive{
+        height:auto !important;
+        min-height:0px !important;
+    }
+    .margin-responsive{
+        margin:13px 0px;
+    }
+    .res-mr-30-x{
+        margin-right:0px;
+    }
+    .h-500-x{
+        height: 300px;
+    }
+}
